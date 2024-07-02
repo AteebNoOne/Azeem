@@ -4,25 +4,25 @@
         "port": 3306,
         "user": "root",
         "password": "",
-        "database": "tryappteeb"
+        "database": "wpllabproject"
     },
     "server":{
         "port":4040
     }
     ,
     "secret": "de3a8afc-a684-4f24-a0a8-765f4325130c",
-    "emailFrom": "test@gmail.com",
+    "emailFrom": "ateebnoone@gmail.com",
     "smtpOptions": {
         "host": "smtp.gmail.com",
         "port": 587,
         "auth": {
-            "user": "ramshakhanx239@gmail.com",
-            "pass": "qnkvrlezmnitvttt"
+            "user": "ateebnoone@gmail.com",
+            "pass": "tdawwocdmuvpefzf"
         }
     },
     "twilio": {
         "accountSid": "AC6af968cd6d1a3e74ef69922c6c5a267c",
-        "authToken": "290dc2a8035e162776c1e961767d034e",
+        "authToken": "cd73749802a14a0f8aea357330491a97",
         "fromNumber": "+15075656169"
     }
 }

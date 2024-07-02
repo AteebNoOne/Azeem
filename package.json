@@ -1,12 +1,8 @@
 {
-    "name": "node-mysql-signup-verification-api",
+    "name": "wpl-lab-project-backend",
     "version": "1.0.0",
     "description": "NodeJS + MySQL API for Email Sign Up with Verification, Authentication & Forgot Password",
-    "license": "Construction Management System",
-    "repository": {
-        "type": "opensource",
-        "url": "https://jasonwatmore.com/"
-    },
+    "license": "ERP System",
     "scripts": {
         "start": "node server.js",
         "start:dev": "nodemon ./server.js"
